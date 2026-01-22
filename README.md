@@ -1,1 +1,1 @@
-# udacity_introduction-to-self-driving-cars-nanodegree
+# Udacity Introduction to Self-Driving Cars Nanodegree
